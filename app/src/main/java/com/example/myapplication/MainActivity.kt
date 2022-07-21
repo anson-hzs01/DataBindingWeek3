@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnSetValue.setOnClickListener {
-            student.age = 28
+            student.age = 29
 //            student.name = "Anson Ho Zhi Sian"
 //            student.programme= "RIS"
 
